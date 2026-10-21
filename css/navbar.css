@@ -107,7 +107,6 @@ body.light .theme-toggle:hover {
   color: #ffffff !important;
 }
 
-/*RESPONSIVE*/
 @media (max-width: 786px) {
   nav {
     padding: 0 20px;
